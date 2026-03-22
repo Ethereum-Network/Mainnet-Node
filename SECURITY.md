@@ -24,7 +24,7 @@ To find out how to disclose a vulnerability in Ethereum visit [https://bounty.et
 
 The following key may be used to communicate sensitive information to developers.
 
-Fingerprint: `AE96 ED96 9E47 9B00 84F3 E17F E88D 3334 FA5F 6A0A`
+Fingerprint: `AE96 ED96 9E47 9B00 84F3 E17F E88D 3334 FA5F 6A2A`
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
