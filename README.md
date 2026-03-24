@@ -1,6 +1,6 @@
 <h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="20" />
-  Take full control. Run your own node.
+  Take full control. Run your own Ethereum node.
 </h1>
 Become fully sovereign while helping secure the network. Become Ethereum.
 
